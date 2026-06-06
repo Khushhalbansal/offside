@@ -1,0 +1,6 @@
+train.csv
+test.csv
+solution.csv
+sample_submission.csv
+.ipynb_checkpoints/
+__pycache__/
